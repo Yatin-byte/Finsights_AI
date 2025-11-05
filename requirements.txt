@@ -1,0 +1,8 @@
+pandas
+numpy
+textblob
+nltk
+nrclex
+matplotlib
+streamlit
+yfinance

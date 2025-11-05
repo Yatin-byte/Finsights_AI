@@ -1,0 +1,6 @@
+Date,Company,Headline,Sentiment,Emotion,Predicted_Trend
+2025-10-30,Reliance,Reliance Industries reports record quarterly profit,Neutral,fear,Neutral
+2025-10-31,TCS,TCS stock declines after weak Q2 earnings,Negative,fear,Down
+2025-11-01,Infosys,Infosys partners with Google Cloud for AI innovation,Neutral,positive,Neutral
+2025-11-02,HDFC,HDFC Bank faces minor regulatory penalty,Neutral,fear,Neutral
+2025-11-03,Wipro,Wipro announces hiring of 500 AI engineers,Neutral,fear,Neutral
